@@ -4,36 +4,36 @@
             "courseName": "Informática Básica",
             "institution": "Advanced School Informática",
             "duration": "60 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200541674275872899/1.jpg?ex=65c68e90&is=65b41990&hm=a2a9278b0166c27e3fcb00e700f4f72cd9fea35e24fed1cf40f985e9365500b2&",
+            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200541674275872899/1.jpg?ex=65f4b310&is=65e23e10&hm=2a0badd23f64009625ff450ea095b79c01ec392918e67cb4b15f72542694870d&",
             "conclusion": "2016"
         },
         {
             "courseName": "Design Gráfico",
             "institution": "Advanced School Informática",
             "duration": "40 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200541674275872899/1.jpg?ex=65c68e90&is=65b41990&hm=a2a9278b0166c27e3fcb00e700f4f72cd9fea35e24fed1cf40f985e9365500b2&",
+            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200541674275872899/1.jpg?ex=65f4b310&is=65e23e10&hm=2a0badd23f64009625ff450ea095b79c01ec392918e67cb4b15f72542694870d&",
             "conclusion": "2016"
         },
         {
             "courseName": "Técnico de nível médio em eletromecânica",
             "institution": "EEEP Professor Antonio Valmir da Silva",
             "duration": "5.400 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200542045538898010/2.jpg?ex=65c68ee8&is=65b419e8&hm=0c37e2c2c88549b4390b6b561e5ea63ea212ed55139696b9c40c111afa2b26f7&",
+            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200542045538898010/2.jpg?ex=65f4b368&is=65e23e68&hm=ac9e2f2c717112aab5cc7b8480ebf60ad10f20ba72376a270f58b6afe0a1f931&",
             "conclusion": "2019"
         },
         {
             "courseName": "Apresentações Corporativas",
             "institution": "CIE Saber Virtual",
             "duration": "8 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200542441112076288/1.jpg?ex=65c68f46&is=65b41a46&hm=10c4dacf2d3f23c969c541bdf7b8856d9daff01807e697d3c7e66832a9660ba8&",
+            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200542441112076288/1.jpg?ex=65f4b3c6&is=65e23ec6&hm=599c2d65c917919bedda71d02fccb8d55727fc20eaff65e0f1529b8e864e2cd6&",
             "conclusion": "2021"
         },
         {
-            "courseName": "Empreendedorismo",
-            "institution": "Sebrae",
-            "duration": "60 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200542779877630034/1.jpg?ex=65c68f97&is=65b41a97&hm=6ad2dd52aab823bd488f6235cdb7e0ce514af1b7bea93bdf3cfbe70c1c6a6546&",
-            "conclusion": "2017"
+            "courseName": "Segurança da informação",
+            "institution": "Estácio",
+            "duration": "100 horas",
+            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1215080559643197450/certificado_Seguranca_da_Informacao.jpg?ex=65fb72f4&is=65e8fdf4&hm=dc6b8bc67046407a9507bdde61f78af9fc43d3c39f7f6526d3cd7b0f2908f9c5&",
+            "conclusion": "2024"
         }
     ]
 }

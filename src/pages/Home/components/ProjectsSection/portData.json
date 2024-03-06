@@ -5,9 +5,9 @@
             "projectType": "Front-end",
             "projectName": "Portfólio React",
             "projectRepo": "https://github.com/HelderXavierL/Portifolio-React",
-            "projectUrl": "",
+            "projectUrl": "https://portfolio-helderx.vercel.app/",
             "status": "Em andamento",
-            "projectImage": "https://cdn.discordapp.com/attachments/1199833536820166841/1199833620148400229/Captura_de_Tela_27.png?ex=65c3fb22&is=65b18622&hm=f0aac5393334e9dc00237a8009422cf7a61849cb626169166e0aad8a767c1b9f&",
+            "projectImage": "https://cdn.discordapp.com/attachments/1199833536820166841/1199833620655906846/Captura_de_Tela_28.png?ex=65fb5a22&is=65e8e522&hm=b52501124d25a0e1db3f32abcb03d8d32a3a517f030b752485177ce7a588e46f&",
             "projectDescription": "Projeto criado para apresentar meus trabalhos e habilidades aos visitantes interessados em conhecer mais sobre mim."
         },
         {
@@ -16,7 +16,7 @@
             "projectRepo": "https://github.com/HelderXavierL/Portifolio-responsivo.bootstrap",
             "projectUrl": "https://helderxavierl.github.io/",
             "status": "Concluído",
-            "projectImage": "https://cdn.discordapp.com/attachments/1199833536820166841/1199833620655906846/Captura_de_Tela_28.png?ex=65c3fb22&is=65b18622&hm=e22706abb3af543b213e28bdb82ede76b76cf9f539670ab059309141ae408b70&",
+            "projectImage": "https://cdn.discordapp.com/attachments/1199833536820166841/1199833620148400229/Captura_de_Tela_27.png?ex=65fb5a22&is=65e8e522&hm=e5187a7ca4b749be8226ca44ae99ff1c907f5a8b0e41bc482181cc7934527be2&",
             "projectDescription": "Este projeto é uma aplicação web desenvolvida com bootstrap com o intuito de servir como portifolio para que possam conhecer meu trabalho."
         }
     ]
