@@ -18,7 +18,7 @@ const AboutMeSection = ({ isMobile }: AboutMeContract) => {
                         </p>
                         <br />
                         <p>
-                            Atualmente estou cursando análise e desenvolvimento
+                            Atualmente estou formado como análista e desenvolvolvedor
                             de sistemas (ADS) e focando no desenvolvimento
                             FullStack.
                         </p>

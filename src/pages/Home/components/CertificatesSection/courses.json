@@ -8,6 +8,13 @@
             "conclusion": "2016"
         },
         {
+            "courseName": "Análise e desenvolvimento de sistemas",
+            "institution": "Estácio",
+            "duration": " 2278 horas",
+            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1217233895687196723/Captura_de_Tela_34.png?ex=66034867&is=65f0d367&hm=9869dfd45d2c326895eaeca6cc4948372b83d2df382f9e29c2e8beccdd5f8fb2&",
+            "conclusion": "2023"
+        },
+        {
             "courseName": "Design Gráfico",
             "institution": "Advanced School Informática",
             "duration": "40 horas",
@@ -22,18 +29,18 @@
             "conclusion": "2019"
         },
         {
-            "courseName": "Apresentações Corporativas",
-            "institution": "CIE Saber Virtual",
-            "duration": "8 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200542441112076288/1.jpg?ex=65f4b3c6&is=65e23ec6&hm=599c2d65c917919bedda71d02fccb8d55727fc20eaff65e0f1529b8e864e2cd6&",
-            "conclusion": "2021"
-        },
-        {
             "courseName": "Segurança da informação",
             "institution": "Estácio",
             "duration": "100 horas",
             "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1215080559643197450/certificado_Seguranca_da_Informacao.jpg?ex=65fb72f4&is=65e8fdf4&hm=dc6b8bc67046407a9507bdde61f78af9fc43d3c39f7f6526d3cd7b0f2908f9c5&",
             "conclusion": "2024"
+        },
+        {
+            "courseName": "Apresentações Corporativas",
+            "institution": "CIE Saber Virtual",
+            "duration": "8 horas",
+            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200542441112076288/1.jpg?ex=65f4b3c6&is=65e23ec6&hm=599c2d65c917919bedda71d02fccb8d55727fc20eaff65e0f1529b8e864e2cd6&",
+            "conclusion": "2021"
         }
     ]
 }
