@@ -4,42 +4,49 @@
             "courseName": "Informática Básica",
             "institution": "Advanced School Informática",
             "duration": "60 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200541674275872899/1.jpg?ex=65f4b310&is=65e23e10&hm=2a0badd23f64009625ff450ea095b79c01ec392918e67cb4b15f72542694870d&",
+            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200541674275872899/1.jpg?ex=66199d10&is=66072810&hm=e5270944bd03bd8a51de550aec25737fd8c9b9f7925f166e63d1dc67df3d2948&",
             "conclusion": "2016"
         },
         {
             "courseName": "Análise e desenvolvimento de sistemas",
             "institution": "Estácio",
             "duration": " 2278 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1217233895687196723/Captura_de_Tela_34.png?ex=66034867&is=65f0d367&hm=9869dfd45d2c326895eaeca6cc4948372b83d2df382f9e29c2e8beccdd5f8fb2&",
+            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1217233895687196723/Captura_de_Tela_34.png?ex=661ef7e7&is=660c82e7&hm=5ac9c7a02dfc2041233b3eb2723a9b15ac054bd2f9bb5ef23a607c0247d4c993&",
             "conclusion": "2023"
         },
         {
             "courseName": "Design Gráfico",
             "institution": "Advanced School Informática",
             "duration": "40 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200541674275872899/1.jpg?ex=65f4b310&is=65e23e10&hm=2a0badd23f64009625ff450ea095b79c01ec392918e67cb4b15f72542694870d&",
+            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200541674275872899/1.jpg?ex=66199d10&is=66072810&hm=e5270944bd03bd8a51de550aec25737fd8c9b9f7925f166e63d1dc67df3d2948&",
             "conclusion": "2016"
         },
         {
             "courseName": "Técnico de nível médio em eletromecânica",
             "institution": "EEEP Professor Antonio Valmir da Silva",
             "duration": "5.400 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200542045538898010/2.jpg?ex=65f4b368&is=65e23e68&hm=ac9e2f2c717112aab5cc7b8480ebf60ad10f20ba72376a270f58b6afe0a1f931&",
+            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200542045538898010/2.jpg?ex=66199d68&is=66072868&hm=bc2c6d4417691feeffe8a1d714901bc632563a60f09ec2e4884be1e92a93baf1&",
             "conclusion": "2019"
         },
         {
             "courseName": "Segurança da informação",
             "institution": "Estácio",
             "duration": "100 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1215080559643197450/certificado_Seguranca_da_Informacao.jpg?ex=65fb72f4&is=65e8fdf4&hm=dc6b8bc67046407a9507bdde61f78af9fc43d3c39f7f6526d3cd7b0f2908f9c5&",
+            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1215080559643197450/certificado_Seguranca_da_Informacao.jpg?ex=66205cf4&is=660de7f4&hm=6f214e38094bed1fb157e145c6112a268fb32449382a690405b3cbe0b3730bff&",
             "conclusion": "2024"
+        },
+        {
+            "courseName": "Cloud computing and Cloud Architecture",
+            "institution": "Udemy",
+            "duration": "1 horas",
+            "certificate": "https://www.udemy.com/certificate/UC-29aff492-2d8f-49bc-94f6-5423ae34e0c7/",
+            "conclusion": "2021"
         },
         {
             "courseName": "Apresentações Corporativas",
             "institution": "CIE Saber Virtual",
             "duration": "8 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200542441112076288/1.jpg?ex=65f4b3c6&is=65e23ec6&hm=599c2d65c917919bedda71d02fccb8d55727fc20eaff65e0f1529b8e864e2cd6&",
+            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200542441112076288/1.jpg?ex=66199dc6&is=660728c6&hm=a2e02363a85bfdada48b8c910cc23ef4cc9661de3325edcb6ea102db7ebd192c&",
             "conclusion": "2021"
         }
     ]
