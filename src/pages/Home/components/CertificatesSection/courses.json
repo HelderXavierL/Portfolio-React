@@ -4,35 +4,35 @@
             "courseName": "Informática Básica",
             "institution": "Advanced School Informática",
             "duration": "60 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200541674275872899/1.jpg?ex=66199d10&is=66072810&hm=e5270944bd03bd8a51de550aec25737fd8c9b9f7925f166e63d1dc67df3d2948&",
+            "certificate": "https://photos.app.goo.gl/JXmAnkfxDtE4hJD26",
             "conclusion": "2016"
         },
         {
             "courseName": "Análise e desenvolvimento de sistemas",
             "institution": "Estácio",
             "duration": " 2278 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1217233895687196723/Captura_de_Tela_34.png?ex=66316ce7&is=661ef7e7&hm=7f84fda509c4e625dbdec5a0ab486eb698041ea7b959f0f59e531c17fc30bee0&",
+            "certificate": "https://photos.app.goo.gl/DMu2DmqL3WaPrKRc8",
             "conclusion": "2023"
         },
         {
             "courseName": "Design Gráfico",
             "institution": "Advanced School Informática",
             "duration": "40 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200541674275872899/1.jpg?ex=66199d10&is=66072810&hm=e5270944bd03bd8a51de550aec25737fd8c9b9f7925f166e63d1dc67df3d2948&",
+            "certificate": "https://photos.app.goo.gl/JXmAnkfxDtE4hJD26",
             "conclusion": "2016"
         },
         {
             "courseName": "Técnico de nível médio em eletromecânica",
             "institution": "EEEP Professor Antonio Valmir da Silva",
             "duration": "5.400 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200542045538898010/2.jpg?ex=66354ce8&is=6622d7e8&hm=0e856a26f482f23b34568895219597a7d958e11acbcc55e18f00b795a59aea23&",
+            "certificate": "https://photos.app.goo.gl/PqhceTmunhUmKECr6",
             "conclusion": "2019"
         },
         {
             "courseName": "Segurança da informação",
             "institution": "Estácio",
             "duration": "100 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1215080559643197450/certificado_Seguranca_da_Informacao.jpg?ex=6632d1f4&is=66205cf4&hm=d3140c6bca0336927bcf8273bbcd15aa00b3a8cc4dad99592e3f2f604af2a5ae&",
+            "certificate": "https://photos.app.goo.gl/PUmhf7CD3fDq5duj6",
             "conclusion": "2024"
         },
         {
@@ -40,13 +40,20 @@
             "institution": "Udemy",
             "duration": "1 horas",
             "certificate": "https://www.udemy.com/certificate/UC-29aff492-2d8f-49bc-94f6-5423ae34e0c7/",
-            "conclusion": "2021"
+            "conclusion": "2024"
+        },
+        {
+            "courseName": "Fundamentos de lógica de programação",
+            "institution": "Italents",
+            "duration": "60 horas",
+            "certificate": "https://lms.italents.com.br/certificado/d348b97b-3f85-4374-9421-14d05ce306bc",
+            "conclusion": "2024"
         },
         {
             "courseName": "Apresentações Corporativas",
             "institution": "CIE Saber Virtual",
             "duration": "8 horas",
-            "certificate": "https://cdn.discordapp.com/attachments/1199833536820166841/1200542441112076288/1.jpg?ex=66354d46&is=6622d846&hm=6cb3bf388009b24eb72eeba2509b1139dbdcfedb9b518b50de99c1d79856db3d&",
+            "certificate": "https://photos.app.goo.gl/wpNCnpxfXAYXHd7t9",
             "conclusion": "2021"
         }
     ]
